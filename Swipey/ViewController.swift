@@ -1,19 +1,17 @@
 //
 //  ViewController.swift
-//  Carousal_clickthrough
+//  Swipey
 //
-//  Created by Vasudhara Kantroo on 9/14/14.
+//  Created by Vasudhara Kantroo on 9/15/14.
 //  Copyright (c) 2014 Vasudhara Kantroo. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-    
-    
+                            
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Carousal_clickthrough.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Swipey.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>323BB4A919C5E9E200770A26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>323BB4BB19C5E9E200770A26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>323BB4DD19C7B85300770A26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>323BB4EE19C7B85300770A26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
