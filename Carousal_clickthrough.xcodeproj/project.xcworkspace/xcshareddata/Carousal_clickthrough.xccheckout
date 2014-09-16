@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38153E2D-D355-47AB-8146-8A62E6CD027A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Carousal_clickthrough</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAE01EC04FFA842DD65E1A2077640189C874CE4F</key>
+		<string>https://github.com/vasudhara/Carousal_clickthrough.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Carousal_clickthrough.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAE01EC04FFA842DD65E1A2077640189C874CE4F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vasudhara/Carousal_clickthrough.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAE01EC04FFA842DD65E1A2077640189C874CE4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAE01EC04FFA842DD65E1A2077640189C874CE4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Carousal_clickthrough</string>
+		</dict>
+	</array>
+</dict>
+</plist>

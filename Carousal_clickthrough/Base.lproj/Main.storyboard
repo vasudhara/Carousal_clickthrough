@@ -404,7 +404,7 @@
                     <connections>
                         <outlet property="imageView" destination="FhS-ge-6tP" id="cXd-yg-L2a"/>
                         <outlet property="scrollView" destination="WvZ-qM-rex" id="mrX-w8-VTS"/>
-                        <segue destination="BYZ-38-t0r" kind="modal" identifier="SignOutSegue" id="94V-tP-46V"/>
+                        <segue destination="u4F-7e-C0g" kind="modal" identifier="SignOutSegue" id="G1e-dB-3SW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mnB-dt-fSA" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -462,7 +462,4 @@
             <size key="landscapeSize" width="568" height="320"/>
         </simulatedScreenMetrics>
     </simulatedMetricsContainer>
-    <inferredMetricsTieBreakers>
-        <segue reference="94V-tP-46V"/>
-    </inferredMetricsTieBreakers>
 </document>
